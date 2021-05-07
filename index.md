@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Testing Github Pages and Jekyll for Architcture docs"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Starting things simple and creating a home page thay used #markdown#
