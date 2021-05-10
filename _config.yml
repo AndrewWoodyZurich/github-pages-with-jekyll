@@ -1,6 +1,10 @@
-title: Githuib Pages & Jeykll for Architecture
-author: Andrew Woodward
-email: woody1664@gmail.com
+---
+title: "Testing"
+date: 2021-05-07
+---
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  Architecture Pages
 
